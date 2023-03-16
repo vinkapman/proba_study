@@ -481,7 +481,7 @@ erDiagram
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 ```
-Все очень подробно на русском языке о диаграммах Mermaid.js: https://habr.com/ru/post/652867/ 
+Самое подробное описание на русском языке о диаграммах Mermaid.js: https://habr.com/ru/post/652867/ 
 
 [:arrow_up:Оглавление](#Оглавление) 
 ____
